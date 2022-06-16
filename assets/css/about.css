@@ -1,9 +1,39 @@
-h4 {
-    color: rgb(80, 226, 173);
-    background-color: blueviolet;
+ul {
+    list-style-type: none;
+
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+/* page basic layout */
+.container{
+    background-color: aliceblue;
+    max-width: 800px;
+    margin:auto;
 }
-p {
+html {
+    background-color: azure;
+
+}
+
+h1 {
     color: aquamarine;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: aqua;
+  
 }

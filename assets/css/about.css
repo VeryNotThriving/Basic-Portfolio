@@ -1,6 +1,9 @@
-h1 {
+h4 {
     color: rgb(80, 226, 173);
+    background-color: blueviolet;
 }
-.first {
+p {
     color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
 }

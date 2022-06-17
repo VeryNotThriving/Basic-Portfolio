@@ -6,11 +6,8 @@ ul {
     overflow: hidden;
     background-color: white;
   }
-  
-  li {
-    float: right;
-  }
-  .name {
+
+   .name {
     font-family: serif;
     float: left;
     margin-left: 210px;
@@ -21,6 +18,10 @@ ul {
     background-color: #4aaaa5;
     
   }
+  li {
+    float: right;
+  }
+ 
   
   li a {
     display: block;

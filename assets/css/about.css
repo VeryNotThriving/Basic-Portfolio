@@ -13,12 +13,12 @@ ul {
   .name {
     font-family: serif;
     float: left;
-    margin-left: 210px;
+    margin-left: 100px;
     color: white;
     border-radius: 2px;
-    padding:6px;
+    padding:8px;
 
-    background-color: aqua;
+    background-color: #4aaaa5;
     
   }
   
@@ -47,7 +47,7 @@ html {
 }
 
 .header {
-    color: rgb(41, 86, 99);
+    color: #4aaaa5;
     font-family: serif;
 }
 .stuff{

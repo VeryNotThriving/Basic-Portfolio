@@ -35,7 +35,7 @@ ul {
 /* page basic layout */
 .container{
     background-color: white;
-    max-width: 800px;
+    max-width: 960px;
     max-height: max-content;
     margin:auto;
     padding: 10px;
@@ -49,7 +49,7 @@ html {
 
 .header {
     color: #4aaaa5;
-    font-family: serif;
+    font-family: 'Georgia';
 }
 .stuff{
     float: left;

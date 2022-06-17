@@ -34,7 +34,7 @@ ul {
 /* page basic layout */
 .container{
     background-color: white;
-    max-width: 800px;
+    max-width: 960px;
     max-height: max-content;
     margin:auto;
     padding: 10px;

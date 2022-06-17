@@ -34,7 +34,7 @@ ul {
 /* page basic layout */
 .container{
     background-color: white;
-    max-width: 800px;
+    max-width: 960px;
     max-height: max-content;
     margin:auto;
     padding: 10px;
@@ -49,4 +49,20 @@ html {
 .Header {
     color: #4aaaa5;
     font-family: serif;
+}
+.textbox-one {
+    margin-bottom: 10px;
+    border-radius: 2px;
+    border-color: red;
+    padding: 10px;
+    outline: 2px;
+    outline-color: #4aaaa5;
+}
+.textbox-two {
+    margin-top: -8px;
+    border-radius: 1px;
+    border: 1px solid #777777;
+    color: #777777;
+    width: auto;
+    height: 20px;
 }

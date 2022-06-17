@@ -50,19 +50,42 @@ html {
     color: #4aaaa5;
     font-family: serif;
 }
-.textbox-one {
-    margin-bottom: 10px;
-    border-radius: 2px;
-    border-color: red;
-    padding: 10px;
-    outline: 2px;
-    outline-color: #4aaaa5;
+h3 {
+    color: #777777;
 }
-.textbox-two {
-    margin-top: -8px;
+.textbox-one {
+    margin-top: -10px;
+    padding-top: 5px;
+    padding-left: 5px;
     border-radius: 1px;
     border: 1px solid #777777;
     color: #777777;
     width: auto;
-    height: 20px;
+    height: 25px;
+}
+.textbox-two {
+    margin-top: -10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    border-radius: 1px;
+    border: 1px solid #777777;
+    color: #777777;
+    width: auto;
+    height: 25px;
+}
+.textbox-three{
+    margin-top: -10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    border-radius: 1px;
+    border: 1px solid #777777;
+    color: #777777;
+    width: auto;
+    height: 100px;
+}
+button {
+    color: white;
+    border-color: #4aaaa5;
+    background-color: #4aaaa5;
+    padding: 0px 24px;
 }

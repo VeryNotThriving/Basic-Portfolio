@@ -18,7 +18,7 @@ ul {
     border-radius: 2px;
     padding:6px;
 
-    background-color: aqua;
+    background-color:#4aaaa5;
     
   }
   
@@ -47,6 +47,6 @@ html {
 }
 
 .Header {
-    color: rgb(41, 86, 99);
+    color: #4aaaa5;
     font-family: serif;
 }

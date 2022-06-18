@@ -1,7 +1,7 @@
 ul {
     list-style-type: none;
     margin-top: -9px;
-    width: 100%;
+    width: 101.5%;
     padding: 0;
     overflow: hidden;
     background-color: white;
@@ -29,7 +29,6 @@ ul {
   li a {
     display: block;
     color: #777777;
-    width: 100%;
     padding: 3px 24px;
     text-decoration: none;
   }
@@ -65,7 +64,7 @@ footer {
 
     background-color: #777777;
     position: absolute;
-    bottom: -600px;
+    bottom: -110;
     height: 40px;
     width: 100%;
     text-align: center;

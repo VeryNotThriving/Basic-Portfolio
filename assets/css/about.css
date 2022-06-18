@@ -1,7 +1,7 @@
 ul {
   list-style-type: none;
   margin-top: -9px;
-  width: 100%;
+  width: 101.5%;
   padding: 0;
   overflow: hidden;
   background-color: white;
@@ -13,7 +13,7 @@ li {
 }
 .last {
   float: right;
-  margin-right: 120px;
+  margin-right: 110px;
 }
 .name {
   font-family: serif;
@@ -57,15 +57,15 @@ html {
   color: #4aaaa5;
   background-color: #4aaaa5;
   height: 10px;
-  width: auto;
-  margin-top: 30px;
+  width: 100%;
+  margin-top: 70px;
 
 }
 footer {
 
   background-color: #777777;
   position: absolute;
-  bottom: -600px;
+  bottom: 0;
   height: 40px;
   width: 100%;
   text-align: center;

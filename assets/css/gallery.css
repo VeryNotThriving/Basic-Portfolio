@@ -1,7 +1,7 @@
 ul {
   list-style-type: none;
   margin-top: -9px;
-  width: 101%;
+  width: 100%;
   padding: 0;
   overflow: hidden;
   background-color: white;
@@ -9,25 +9,28 @@ ul {
 
 li {
   float: right;
+  ;
+}
+.last {
+  float: right;
+  margin-right: 120px;
 }
 .name {
   font-family: serif;
   float: left;
-  margin-left: 210px;
+  margin-left: 125px;
   color: white;
   border-radius: 2px;
   padding:6px;
-
   background-color: #4aaaa5;
 
 }
 
 li a {
   display: block;
-  color: rgb(0, 0, 0);
-  text-align: center;
+  color: #777777;
+  width: 100%;
   padding: 3px 24px;
-
   text-decoration: none;
 }
   
@@ -51,17 +54,94 @@ html {
     color: #4aaaa5;
     font-family: serif;
 }
-.box {
+.border {
     color: #4aaaa5;
     background-color: #4aaaa5;
-    height: 5px;
+    height: 10px;
+    width: auto;
+    margin-top: 30px;
+
 }
 footer {
-    display: block;
+
     background-color: #777777;
     position: absolute;
-    bottom: 0;
+    bottom: -600px;
+    height: 40px;
     width: 100%;
     text-align: center;
     color: white;
+    vertical-align: text-top;
   }
+
+img {
+  padding-right: 20px;
+  padding-bottom: 40px;
+
+}
+/* image describers */
+.one {
+  color: white;
+  background-color: #4aaaa5;
+  height: 40px;
+  width: 300px;
+  text-align: center;
+  padding-top: 15px;
+ position: absolute;
+ bottom: 105px;
+
+}
+.two {
+  color: white;
+  background-color: #4aaaa5;
+  height: 40px;
+  width: 300px;
+  text-align: center;
+  padding-top: 15px;
+ position: absolute;
+ bottom: 105px;
+ left: 476px;
+
+}
+.three {
+  color: white;
+  background-color: #4aaaa5;
+  height: 40px;
+  width: 300px;
+  text-align: center;
+  padding-top: 15px;
+  position: absolute;
+  bottom: -190px;
+}
+.four {
+  color: white;
+  background-color: #4aaaa5;
+  height: 40px;
+  width: 300px;
+  text-align: center;
+  padding-top: 15px;
+  position: absolute;
+  bottom: -190px;
+  left: 476px;
+}
+.five {
+  color: white;
+  background-color: #4aaaa5;
+  height: 40px;
+  width: 300px;
+  text-align: center;
+  padding-top: 15px;
+  position: absolute;
+  bottom: -400px;
+}
+.six {
+  color: white;
+  background-color: #4aaaa5;
+  height: 40px;
+  width: 300px;
+  text-align: center;
+  padding-top: 15px;
+  position: absolute;
+  bottom: -400px;
+  left: 476px;
+}

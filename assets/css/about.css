@@ -1,36 +1,38 @@
 ul {
-    list-style-type: none;
-    margin-top: -9px;
-    width: 101%;
-    padding: 0;
-    overflow: hidden;
-    background-color: white;
-  }
+  list-style-type: none;
+  margin-top: -9px;
+  width: 100%;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
 
-   .name {
-    font-family: serif;
-    float: left;
-    margin-left: 210px;
-    color: white;
-    border-radius: 2px;
-    padding:8px;
+li {
+  float: right;
+  ;
+}
+.last {
+  float: right;
+  margin-right: 120px;
+}
+.name {
+  font-family: serif;
+  float: left;
+  margin-left: 125px;
+  color: white;
+  border-radius: 2px;
+  padding:6px;
+  background-color: #4aaaa5;
 
-    background-color: #4aaaa5;
-    
-  }
-  li {
-    float: right;
-  }
- 
-  
-  li a {
-    display: block;
-    color: rgb(0, 0, 0);
-    text-align: center;
-    padding: 3px 24px;
+}
 
-    text-decoration: none;
-  }
+li a {
+  display: block;
+  color: #777777;
+  width: 100%;
+  padding: 3px 24px;
+  text-decoration: none;
+}
   
 /* page basic layout */
 .container{
@@ -50,6 +52,25 @@ html {
 .header {
     color: #4aaaa5;
     font-family: 'Georgia';
+}
+.border {
+  color: #4aaaa5;
+  background-color: #4aaaa5;
+  height: 10px;
+  width: auto;
+  margin-top: 30px;
+
+}
+footer {
+
+  background-color: #777777;
+  position: absolute;
+  bottom: -600px;
+  height: 40px;
+  width: 100%;
+  text-align: center;
+  color: white;
+  vertical-align: text-top;
 }
 .stuff{
     float: left;

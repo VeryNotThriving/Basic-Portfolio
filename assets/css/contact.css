@@ -61,7 +61,11 @@ html {
 
 }
 footer {
-
+/* for whatever reason the footer position is fine here when
+I launch it straight from my files but not on the website
+same thing goes for the footer in about page
+I also couldn't figure out how to make the footer and navbar stretch
+fully across the screen */
     background-color: #777777;
     position: absolute;
     bottom: -110;
